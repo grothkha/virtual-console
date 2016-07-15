@@ -9,6 +9,8 @@ Virtual Console is a `NodeJS` based gaming console application with controller a
 
 A project by 3 students of the [University of Appied Sciences Kiel](https://www.fh-kiel.de/).
 
+Realized at the FH Kiel's ["Creative Technologies" Group](http://www.creative-technologies.de/browser-game-controller-backend/)
+
 -----
 Quick links
 
